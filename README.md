@@ -11,8 +11,8 @@
 - ⚽ Hobbies: Football & Cybersport (especially CS2)
 
 ## 📊 GitHub Stats
-![Ixtiy0rx0n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixtiy0rx0n&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixtiy0rx0n&layout=compact&theme=radical)
+![Ixtiy0rx0n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixtiyorxon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixtiyorxon&layout=compact&theme=radical)
 
 ## 🛠️ Languages & Tools
 - ☕ Java
